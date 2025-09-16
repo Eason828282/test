@@ -1,0 +1,44 @@
+attrs==23.2.0
+beautifulsoup4==4.12.3
+bokeh==3.4.1
+Brotli @ file:///C:/ci_311/brotli-split_1676435766766/work
+certifi @ file:///C:/b/abs_35d7n66oz9/croot/certifi_1707229248467/work/certifi
+cffi==1.16.0
+charset-normalizer==3.3.2
+contourpy==1.2.1
+cycler==0.12.1
+fonttools==4.51.0
+h11==0.14.0
+idna @ file:///C:/ci_311/idna_1676424932545/work
+Jinja2==3.1.3
+kiwisolver==1.4.5
+MarkupSafe==2.1.5
+matplotlib==3.8.4
+numpy==1.26.4
+outcome==1.3.0.post0
+packaging==24.0
+pandas==2.2.2
+pillow==10.3.0
+pycparser==2.21
+pyparsing==3.1.2
+PySocks @ file:///C:/ci_311/pysocks_1676425991111/work
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
+pytz==2024.1
+PyYAML==6.0.1
+requests @ file:///C:/b/abs_474vaa3x9e/croot/requests_1707355619957/work
+selenium==4.19.0
+six==1.16.0
+sniffio==1.3.1
+sortedcontainers==2.4.0
+soupsieve==2.5
+tornado==6.4
+trio==0.25.0
+trio-websocket==0.11.1
+typing_extensions==4.10.0
+tzdata==2024.1
+urllib3 @ file:///C:/b/abs_4etpfrkumr/croot/urllib3_1707770616184/work
+webdriver-manager==4.0.1
+win-inet-pton @ file:///C:/ci_311/win_inet_pton_1676425458225/work
+wsproto==1.2.0
+xyzservices==2024.4.0
